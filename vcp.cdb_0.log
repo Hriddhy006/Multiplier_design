@@ -1,0 +1,9 @@
+Unhandled exception: 0xc0000005
+[Begin callstack dump]
+=== backtrace ====
+      0x806f608d : ? [ @ 0 ]
+       0x43f13b0 : ? [R:\Aldec\Active-HDL-12-x64\bin\vcp.exe @ 0x400000 ]
+      0x14c1b0e0 : ? [R:\Aldec\Active-HDL-12-x64\bin\vcp.exe @ 0x14ae0000 ]
+      0x14c1a120 : ? [R:\Aldec\Active-HDL-12-x64\bin\vcp.exe @ 0x14ae0000 ]
+==================
+[End callstack dump]

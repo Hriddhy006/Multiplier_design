@@ -1,0 +1,10 @@
+Unhandled exception: 0xc0000005
+[Begin callstack dump]
+=== backtrace ====
+      0x10cc608d : ExprSeq::isCompileConstant+0x73d [C:\Aldec\Active-HDL-12-x64\bin\vca.dll @ 0x105d0000 ]
+       0x43f13b0 : ? [C:\Aldec\Active-HDL-12-x64\bin\vcp.exe @ 0x400000 ]
+      0x17b9a760 : ? [C:\Aldec\Active-HDL-12-x64\bin\vcp.exe @ 0x17a20000 ]
+      0x11100dab : SemGenAPI_Data<0>::port+0x383b [C:\Aldec\Active-HDL-12-x64\bin\vca.dll @ 0x105d0000 ]
+      0x17b997a0 : AIDExpr::upgradeXFlag+0xafd70 [C:\Aldec\Active-HDL-12-x64\bin\vca.dll @ 0x17a20000 ]
+==================
+[End callstack dump]
